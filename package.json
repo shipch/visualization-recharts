@@ -3,17 +3,25 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "browser": "^0.2.6",
     "d3": "3",
     "d3-scale": "^1.0.5",
     "ic-recharts": "^0.13.6",
     "react": "^15.4.2",
+    "react-addons-css-transition-group": "^15.4.2",
+    "react-addons-transition-group": "^15.4.2",
+    "react-bootstrap": "^0.30.8",
+    "react-children": "0.0.3",
     "react-dom": "^15.4.2",
     "react-dom-server": "^0.0.5",
+    "react-dropdown": "^1.2.1",
     "react-with-addons": "^0.0.1",
+    "reactstrap": "^4.5.0",
     "recharts": "^0.21.2"
   },
   "devDependencies": {
+    "json-loader": "^0.5.4",
     "react-scripts": "0.9.5"
   },
   "scripts": {
